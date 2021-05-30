@@ -1,0 +1,41 @@
+body{
+    background-color: transparent;
+    display: none;
+}
+
+.notification-wrapper{
+    background-color:  rgba(29, 29, 27, 0.93);
+    border-radius: 10px;
+}
+
+.container{
+    width: 300px;
+    position: absolute;
+    left: 10px;
+    bottom: 80px;
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.last-notification-wrapper{
+    background-color: rgba(76, 151, 248, 0.93);
+   border-radius: 10px;
+}
+
+.error-back{
+   background-color: rgba(194, 8, 8, 0.93);
+   border-radius: 10px;
+}
+
+.success-back{
+    background-color: rgba(20, 163, 63, 0.93);
+   border-radius: 10px;
+}
+
+.main-color{
+    color: #FBB60E
+}
+
+.date-color{
+    color: rgb(196, 191, 191);
+}
